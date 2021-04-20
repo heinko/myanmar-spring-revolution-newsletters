@@ -7,6 +7,7 @@
 - [မိုလိုတော့ဗ် စာစဉ်](./molotov-မိုလိုတော့ဗ်)
 - [နွေဦးအသံ လက်ကမ်း သတင်းလွှာ](./the_voice_of_spring-နွေဦးအသံ)
 - [လဂွန်းအိမ် စာစဉ်](./lagooneain-လဂွန်းအိမ်)
+- [Burma3R](./revolt_resolve_&_report-Burma3R)
 
 ## Publishers info
 ### [ပြည်သူ့ အသံ စာစဉ် - Pyithuathan](./pyithuathan-ပြည်သူ့အသံ)
@@ -35,3 +36,8 @@
 - Source: [Lagon Eain - လဂွန်းအိမ် စာစဉ် ဖေ့စ်ဘုတ် စာမျက်နှာ](https://www.facebook.com/Lagon-Eain-%E1%80%9C%E1%80%82%E1%80%BD%E1%80%94%E1%80%BA%E1%80%B8%E1%80%A1%E1%80%AD%E1%80%99%E1%80%BA-%E1%80%85%E1%80%AC%E1%80%85%E1%80%89%E1%80%BA-102760525268654)
 - First Published: **13 April 2021**
 - Publication Frequency: **Weekly on Tuesday**
+### [Burma3R - Revolt, Resolve & Report](./revolt_resolve_&_report-Burma3R)
+တော်လှန်ရေးကာလမှာ စစ်အာဏာရှင်ဖြုတ်ချရေးအတွက် တစိတ်တဒေသ ပါဝင်ချင်တဲ့ ပြည်သူတယောက်က ဒီ စာစောင် ကို ထုတ်ဝေပါတယ်။
+- Source: [Revolt, Resolve & Report ဖေ့စ်ဘုတ် စာမျက်နှာ](https://www.facebook.com/burma3R)
+- First Published: **14 April 2021**
+- Publication Frequency: **Daily**
