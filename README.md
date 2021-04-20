@@ -3,8 +3,8 @@
 
 ## Available List
 - [ပြည်သူ့ အသံ စာစဉ်](./pyithuathan-ပြည်သူ့အသံ)
-- [ဆီသို့ သတင်းလွှာ](./towards-ဆီသို့)
 - [အမတ နွေဦး စာစောင်](./amata_spring-အမတနွေဦးစာစောင်)
+- [ဆီသို့ သတင်းလွှာ](./towards-ဆီသို့)
 - [မိုလိုတော့ဗ် စာစဉ်](./molotov-မိုလိုတော့ဗ်)
 - [နွေဦးအသံ လက်ကမ်း သတင်းလွှာ](./the_voice_of_spring-နွေဦးအသံ)
 - [ကချင်ပြည်နယ် လူထုလှုပ်ရှားမှု စာစဉ်](./kscm-ကချင်ပြည်နယ်လူထုလှုပ်ရှားမှုစာစဉ်)
@@ -17,16 +17,16 @@
 - Source: [ပြည်သူ့အသံ ဖေ့စ်ဘုတ် စာမျက်နှာ](https://www.facebook.com/PTATEditor)
 - First Published: **12 February 2021**
 - Publication Frequency: **Weekly on Saturday**
-### [ဆီသို့ သတင်းလွှာ - Towards Newsletter](./towards-ဆီသို့)
-ရန်ကုန်အခြေစိုက်တက္ကသိုလ်ကျောင်းသားသမဂ္ဂများ (တကသများ) နှင့် တကသဟောင်းများ အင်အားစုတို့မှ ပူးပေါင်းထုတ်ဝေသော "ဆီသို့" သတင်းလွှာ။
-- Source: [တက္ကသိုလ်ကျောင်းသားသမဂ္ဂများ ရန်ကုန် ဖေ့စ်ဘုတ် စာမျက်နှာ](https://www.facebook.com/asuyangon)
-- First Published: **30 March 2021**
-- Publication Frequency: **Weekly on Friday**
 ### [အမတ နွေဦး စာစောင်](./amata_spring-အမတနွေဦးစာစောင်)
 အမတ နှင်းဆီ စာပေ က ထုတ်ဝေသော လူထုတိုက်ပွဲအပြန် ရဲဘော်တွေ အမောပြေဖတ်ဖို့ ကဗျာတွေ ရသ စာတွေပါ။
 - Source: [အမတနှင်းဆီ စာပေ ဖေ့စ်ဘုတ် စာမျက်နှာ](https://www.facebook.com/amatarosesarpay)
 - First Published: **07 March 2021**
 - Publication Frequency: **Monthly**
+### [ဆီသို့ သတင်းလွှာ - Towards Newsletter](./towards-ဆီသို့)
+ရန်ကုန်အခြေစိုက်တက္ကသိုလ်ကျောင်းသားသမဂ္ဂများ (တကသများ) နှင့် တကသဟောင်းများ အင်အားစုတို့မှ ပူးပေါင်းထုတ်ဝေသော "ဆီသို့" သတင်းလွှာ။
+- Source: [တက္ကသိုလ်ကျောင်းသားသမဂ္ဂများ ရန်ကုန် ဖေ့စ်ဘုတ် စာမျက်နှာ](https://www.facebook.com/asuyangon)
+- First Published: **30 March 2021**
+- Publication Frequency: **Weekly on Friday**
 ### [မိုလိုတော့ဗ် စာစဉ် - Molotov Newspaper](./molotov-မိုလိုတော့ဗ်)
 စစ်အာဏာရှင် ဆန့်ကျင်ရေး လှုပ်ရှားနေကြသည့် လူငယ်တွေကိုယ်တိုင် ရေးသားထုတ်ဝေသည့် မိုလိုတော့ဗ် စာစဉ်။
 - Source: [မိုလိုတော့ဗ် - စာစဉ် ဖေ့စ်ဘုတ် စာမျက်နှာ](https://www.facebook.com/Molotov.to.Read)
@@ -53,3 +53,7 @@
 - Source: [Revolt, Resolve & Report ဖေ့စ်ဘုတ် စာမျက်နှာ](https://www.facebook.com/burma3R)
 - First Published: **14 April 2021**
 - Publication Frequency: **Daily**
+
+## Others Info
+- [တော်လှန်ရေးစာစဉ်များ - Telegram Channel](https://t.me/MMSpringNewsletters)
+- [ပုံနှိပ် စာစောင်များ သတင်း - MyanmarNow News](https://www.myanmar-now.org/mm/news/6436)
