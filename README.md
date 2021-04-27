@@ -56,4 +56,5 @@
 
 ## Others Info
 - [တော်လှန်ရေးစာစဉ်များ - Telegram Channel](https://t.me/MMSpringNewsletters)
-- [ပုံနှိပ် စာစောင်များ သတင်း - MyanmarNow News](https://www.myanmar-now.org/mm/news/6436)
+- [အာဏာရှင်တော်လှန်ရေး ပြည်သူ့စစ်ပွဲကို အရှိန်မြှင့်တင်ပေးမည့် ပုံနှိပ်စာစောင်များ - MyanmarNow](https://www.myanmar-now.org/mm/news/6436)
+- [As journalists come under fire, Myanmar’s underground media grows by GLOBE_](https://southeastasiaglobe.com/underground-newspapers-myanmar/)
